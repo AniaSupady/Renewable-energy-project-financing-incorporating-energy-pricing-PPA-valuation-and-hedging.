@@ -1,6 +1,8 @@
 # Renewable-energy-project-financing-incorporating-energy-pricing-PPA-valuation-and-hedging.
 Renewable Energy Project Financing Model: Integrates energy pricing, PPA valuation, DCF/NPV calculations, and hedging strategies for comprehensive risk assessment and financial forecasting.
 
+https://github.com/AniaSupady/Renewable-energy-project-financing-incorporating-energy-pricing-PPA-valuation-and-hedging./blob/main/Renewable_energy_project_financing%2C_incorporating_energy_pricing%2C_PPA_valuation%2C_and_hedging_strategies.ipynb
+
 
 # Renewable Energy Project Financing and Risk Assessment
 
